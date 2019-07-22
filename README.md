@@ -146,6 +146,6 @@ And then use it in your template:
 
 ## <a id="captures"></a>Captures
 
-![Example capture 1](./imgs/capture1.png "Example capture 1")
-![Example capture 2](./imgs/capture2.png "Example capture 2")
+![Example capture 1](capture1.png "Example capture 1")
+![Example capture 2](capture2.png "Example capture 2")
 
