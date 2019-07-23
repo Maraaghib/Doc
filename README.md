@@ -146,6 +146,11 @@ And then use it in your template:
 
 ## <a id="captures"></a>Captures
 
+An example without `large`
+
 ![Example capture 1](capture1.png "Example capture 1")
+
+An example with `large` option
+
 ![Example capture 2](capture2.png "Example capture 2")
 
