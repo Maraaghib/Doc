@@ -5,7 +5,7 @@
 
 # Overview
 
->**A custom Angular component allowing to simulate the behavior of `HTML` radio buttons without using them.**
+>**A custom Angular component allowing to simulate the behavior of `HTML` radio buttons without using them with predefined styles.**
 
 * [Install](#install)
 * [Usage](#usage)
